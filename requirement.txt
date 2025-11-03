@@ -1,0 +1,13 @@
+# requirements.txt
+# Core libraries for data manipulation and scientific computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning Model
+lightgbm>=3.3.5
+
+# Utilities for model building (splitting, metrics)
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
